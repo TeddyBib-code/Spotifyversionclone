@@ -60,3 +60,11 @@ ul:hover
     margin: 0 10px;
     box-shadow: 0 0 5px #f1fafa;
 }
+
+h2{
+    color: #fff;
+}
+
+iframe{
+  width: 290px;
+}
