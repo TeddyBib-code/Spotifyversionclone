@@ -58,6 +58,5 @@ ul:hover
 
 .frame1{
     margin: 0 10px;
-    box-shadow: 0 0 10px #f1fafa;
-    border-radius: 5px;
+    box-shadow: 0 0 5px #f1fafa;
 }
